@@ -30,7 +30,7 @@ Development, and Digital Marketing.
 - **Objective:** Build a reference cheat-sheet of 20 commonly used network ports, 
   documenting each port's service and associated security risk.
 - **Tools used:** Manual research (IANA port references), `nmap` (localhost scan only)
-- **Deliverable:** `Task4_Common_Ports_Cheat_Sheet.pdf`
+- **Deliverable:** `Task3_Common_Ports_Cheat_Sheet.pdf`
 - **Summary:** Compiled a 20-port reference table covering protocol, service, common 
   use, and security risk. Verified live/open ports on a local machine using 
   `nmap -sV localhost`, restricted strictly to own-system scanning per the task's 
